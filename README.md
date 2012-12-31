@@ -1,9 +1,4 @@
-Title: Signing AWS Requests With Your Arduino
-Date: 2012-12-30 12:00
-Tags: arduino,hack,python
-Category: Security
-Slug: signing-aws-requests-with-your-arduino
-Author: Stefan Arentz
+(See the original posting [on my blog at stefan.arentz.ca](http://stefan.arentz.ca))
 
 TL;DR
 =====
